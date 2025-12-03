@@ -1,35 +1,5 @@
-🍽 Fast Feast Food Delivery Web App
-This project showcases a dynamic and responsive food delivery web application designed to streamline online food ordering and delivery.
+🍔🍽️ FastFeast Food Delivery
+FastFeast Food Delivery is an online restaurant ordering system that allows customers to browse an interactive E-menu, place orders online, and receive instant notifications — all without the need for a waiter.
 
-🔧 Tech Stack
-HTML
-
-CSS
-
-JavaScript
-
-PHP
-
-Bootstrap
-
-📈 Features
-User-friendly and responsive UI
-
-Food item browsing with categories
-
-Add-to-cart and checkout functionality
-
-Order tracking and management
-
-Backend integration with PHP
-
-📂 Files
-index.html: Main landing page
-
-style.css: Custom styling
-
-app.js: JavaScript for interaction
-
-order.php: Order processing backend
-
-README.md: Project documentation
+FastFeast is a complete online food ordering and management system with invoice generation, email notifications, and admin panel.
+This system is built to improve restaurant efficiency, especially during peak hours.
